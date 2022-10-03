@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+# Guess Pokémon Game
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Here you could find a little example of PokeApi implementation to show a list of Pokémon and guess the name of the
+Pokémon. All is implemented with vue, and you could find an example of how to use the PokeApi with vue. I tried to
+include just a basic configuration of vue and webpack to make it easy to understand.
 
-## Recommended IDE Setup
+### - [Project Demo](https://guesspokemon.netlify.app/)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+![Project gif example](https://github.com/JesusJimenezC/ImagesExampleProjects/blob/master/GuessPokemonGame.gif?raw=true)
